@@ -2,7 +2,7 @@ import requests
 import shutil
 import os
 
-beurl = [ [ "https://bb.spbu.ru/bbcswebdav/courses/UNIV.000999.2016.FT.TEST.1.C02.FPTB.1/L10-Комплекс ГТО/files/assets/common/page-html5-substrates/page", "_l.jpg"] ]#, ["https://bb.spbu.ru/bbcswebdav/courses/UNIV.000999.2016.FT.TEST.1.C02.FPTB.1/L09-Спортивное питание/files/assets/common/page-html5-substrates/page", ".jpg"] ]
+beurl = [ [ "https://bb.spbu.ru/bbcswebdav/courses/.....", "_l.jpg"] ]
 
 n = 87
 lec = "Lec10"
